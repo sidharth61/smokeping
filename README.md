@@ -1,1 +1,1 @@
-# docker_smokeping
+# smokeping
